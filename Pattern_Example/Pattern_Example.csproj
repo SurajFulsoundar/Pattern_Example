@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Pattern_Example.p_9</StartupObject>
+    <StartupObject>Pattern_Example.p_33</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,7 +49,30 @@
     <Compile Include="p.2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="p_10.cs" />
+    <Compile Include="p_11.cs" />
+    <Compile Include="p_12.cs" />
+    <Compile Include="p_13.cs" />
+    <Compile Include="p_14.cs" />
+    <Compile Include="p_16.cs" />
+    <Compile Include="p_17.cs" />
+    <Compile Include="p_18.cs" />
+    <Compile Include="p_19.cs" />
+    <Compile Include="p_20.cs" />
+    <Compile Include="p_21.cs" />
+    <Compile Include="p_22.cs" />
+    <Compile Include="p_23.cs" />
+    <Compile Include="p_24.cs" />
+    <Compile Include="p_25.cs" />
+    <Compile Include="p_26.cs" />
+    <Compile Include="p_27.cs" />
+    <Compile Include="p_28.cs" />
+    <Compile Include="p_29.cs" />
     <Compile Include="p_3.cs" />
+    <Compile Include="p_30.cs" />
+    <Compile Include="p_31.cs" />
+    <Compile Include="p_32.cs" />
+    <Compile Include="p_33.cs" />
     <Compile Include="p_4.cs" />
     <Compile Include="p_5.cs" />
     <Compile Include="p_6.cs" />
